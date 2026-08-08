@@ -7,7 +7,7 @@ public class BinarySearch {
         int target = 9;
         int result = binarysearch(num, target);
         if (target != -1) {
-            System.out.println("Target is at index no :" + result);
+            System.out.println(target+" is at index no :" + result);
         } else {
             System.out.println("Target not found");
         }
