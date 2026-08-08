@@ -5,7 +5,7 @@ package searching;
 public class FloorOfaWord {
     public static void main(String[] args) {
         char[] ch = { 'a', 'b', 'c', 'd', 'e', 'f', 'g', 'h' };
-        char target = 'c';
+        char target = 'd';
         char result = Ceiling(ch, target);
         System.out.println("Ceiling of " + target + " is :" + result);
     }
