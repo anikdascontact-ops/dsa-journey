@@ -1,4 +1,5 @@
 package searching;
+//find the target element and return the smallest index number 
 
 public class FindInMountainArray {
 
